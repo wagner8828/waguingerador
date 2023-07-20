@@ -1,2 +1,3 @@
-# waguingerador
-Gerador waguin
+Gerador de emails sensivel para criar em sites
+
+

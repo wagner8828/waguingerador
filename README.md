@@ -1,0 +1,2 @@
+# waguingerador
+Gerador waguin
